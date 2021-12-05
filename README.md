@@ -10,3 +10,4 @@ The folders are structured as follows:
 Link to dataset: https://www.kaggle.com/ghoshanisha/ibm-employee-attrition 
 
 There is no hyperparameter tuning required to run the models(we have done that for you), just change the path to the dataset in both the files 1,2 mentioned above.
+use the final_dataset for training
