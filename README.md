@@ -11,3 +11,5 @@ Link to dataset: https://www.kaggle.com/ghoshanisha/ibm-employee-attrition
 
 There is no hyperparameter tuning required to run the models(we have done that for you), please change the path to the dataset in both the files 1,2 mentioned above.
 Use the final_dataset for training and testing. 
+
+Please consider files 1&2 for final evalutation, the debug folders are to highlight the process not for evaluation.
