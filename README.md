@@ -1,4 +1,13 @@
 # Data-Analytics-Mini-Project
 
-The EDA is spread across 4 jupyter notebooks with the teammates names, we have compiled all of that work related to the entire dataset in the final report with the literature survey. Please go through the report for a clear understanding of our eda and solution approach.
-Literature Survey & EDA Report: https://docs.google.com/document/d/1sZ_t2Iv62C-bjt82gjArRB77d7p1ttzy/edit?usp=sharing&ouid=105716424213299764928&rtpof=true&sd=true 
+The folders are structured as follows:
+1. Attrition analysis.ipynb: The final set of models (6 models in the order Logistic Regression, Naive Bayes, KNN, SVM, XGBoost, Random Forest Classifier)
+2. EDA & Visualisation.ipynb: The compiled EDA and visualisation, only the important visualisations have been mentioned here
+3. Debug Phase 1: The individual EDA files of each team member
+4. Debug Phase 2: The individual models for testing and debugging 
+5. Datasets: The original dataset(hr_dataset) and the cleaned dataset (final_dataset)
+
+Link to dataset: https://www.kaggle.com/ghoshanisha/ibm-employee-attrition 
+
+There is no hyperparameter tuning required to run the models(we have done that for you), please change the path to the dataset in both the files 1,2 mentioned above.
+Use the final_dataset for training and testing. 
